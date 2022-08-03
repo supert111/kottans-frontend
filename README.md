@@ -31,17 +31,14 @@
 Ось: https://github.com/kottans/mock-repo/pull/922
 ## Вивчити додаткові матеріали
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
-- [x] [Git за 30 хвилин](https://codeguida.com/post/453)
-- [x] [Git tips — закріпити свої знання про Git](https://www.webfx.com/blog/web-design/git-tips/)
-- [x] [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
-- [x] [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
+- [ ] [Git за 30 хвилин](https://codeguida.com/post/453)
+- [ ] [Git tips — закріпити свої знання про Git](https://www.webfx.com/blog/web-design/git-tips/)
+- [ ] [About Merge Conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+- [ ] [Resoilving a Merge Conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
 - [ ] [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 - [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
-- [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) WIP - 308/685 Typing Jungle ^_^
-- [x] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) - дуже корисний мотиваційний ресурс, щоб не впадати в зневіру)
-
-## GENERAL SUMMARY:
-Я очікувала, що буде легше) Багато матеріалів. Курс на Курсері потребує часу, але вартий того. Проходити англійською не найлегший квест, проте можливо. Чи вдалось розібратись з роботою Гіта і почуватись у ньому впевненіше? 100%. Урок - не варто недооцінювати скільки часу займе проходження)
+- [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) 
+- [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) 
 
 # 1. Linux, Command Line, HTTP Tools
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
@@ -60,11 +57,11 @@
 ## [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 Було непросто. Сподобалась частина про детальне пояснення роботи HTTPS протоколу і кеш. Відчуваю потребу повернутись до цієї інфи через деякий час, бо щось є сумніви чи я все допетрала...
 ## Additional
-- [x] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189) - прочитала, але не скористалась порадами і курсами((
+- [ ] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189) 
 - [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7) - tltr, трішки пізніше)
 - [ ] [Command Line Power User](https://commandlinepoweruser.com/) - пізніше
-- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) - Лінукс поки не на часі(
-- [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) - оце на часі, але поки нема часу)
+- [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) 
+- [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) 
 
 # 2.VCS (hello gitty), GitHub and Collaboration
 ## Курс [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github):
