@@ -27,11 +27,8 @@
   <img src = https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/Pull%20and%20push.jpg?raw=true>
 </details>
 
-### SUMMARY:
-Цікава гра) довелось трішки помучитись, але було дуже корисно відшліфувати навички на практиці.
-
 ## Надіслати pull-request
-Ось: https://github.com/kottans/mock-repo/pull/767
+Ось: https://github.com/kottans/mock-repo/pull/922
 ## Вивчити додаткові матеріали
 - [ ] [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 - [x] [Git за 30 хвилин](https://codeguida.com/post/453)
