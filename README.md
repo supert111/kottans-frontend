@@ -27,7 +27,7 @@
 - [x] Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!:
 <details>
   <summary>Push & Pull</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181451001-5d1daed8-eef0-4782-bf12-1b0a1c91c631.png">
+  <img src = https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/Pull%20and%20push.jpg?raw=true>
 </details>
 
 ### SUMMARY:
