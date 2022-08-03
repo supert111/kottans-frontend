@@ -21,7 +21,7 @@
 - [x] Основи:
 <details>
   <summary>Basics</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181358066-c7dd0e64-88a7-4dd3-8eb2-ca3efb483f71.png">
+  <img src = https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.jpg?raw=true>
 </details>
 
 - [x] Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!:
