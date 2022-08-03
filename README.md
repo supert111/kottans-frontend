@@ -47,10 +47,10 @@
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
 <details>
   <summary>4 Quizes:</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181487413-849cf1cb-98d6-480e-8338-85d5833a9437.png">
-  <img src = "https://user-images.githubusercontent.com/97355715/181627516-4e9f9e90-818b-40d4-af91-677a8d5fcfa3.png">
-  <img src = "https://user-images.githubusercontent.com/97355715/181744716-2daa92e4-4282-4c3b-8436-9d094b4dee97.png">
-  <img src = "https://user-images.githubusercontent.com/97355715/181748214-88268adb-5b2c-41a5-9cfd-2d04ab88b759.png">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_linux_cli/quiz1.jpg?raw=true">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_linux_cli/quiz2.jpg?raw=true">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_linux_cli/quiz3.jpg?raw=true">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_linux_cli/quiz4.jpg?raw=true">
 </details>
 
 ### SUMMARY:
