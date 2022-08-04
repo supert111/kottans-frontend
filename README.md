@@ -58,8 +58,8 @@
 
 ## Additional
 - [ ] [How I taught myself to code in eight weeks](https://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189) 
-- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7) - tltr, трішки пізніше)
-- [ ] [Command Line Power User](https://commandlinepoweruser.com/) - пізніше
+- [ ] [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7) 
+- [ ] [Command Line Power User](https://commandlinepoweruser.com/)
 - [ ] [Configuring Linux Web Servers](https://www.udacity.com/course/configuring-linux-web-servers--ud299) 
 - [ ] [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) 
 
@@ -98,5 +98,4 @@
 - [ ] [GitHub Learning Lab](https://lab.github.com/)
 
 ### SUMMARY:
-Взагалі, все,що дізналась, було новим для мене. Основний урок за цей курс - спочатку потрібно проходити теоретичний матеріал, а потім практикуватись, так буде простіше :) Дуже сподобалось гратись з "learngitbranching.js.org" - все чітко пояснюється, і з цими кульками прекрасно вдається візуалізвуати, що відбувається при виконанні різних команд. Курс на Курсері дуже інформативний, але доволі абстрактний. Перші 2 тижні я пройшла з доступод до "лабораторних робіт" і було простіше, бо хоч якась наочність, тижні 3-4 - просто якась теоретична інфа про команди. Не зважаючи на "практичну" частину у вигляді гри з кульками "learngitbranching.js.org" - все одно не вистачало практики для розуміння цих всіх команд. З розрахунку, дізнатись, які є команди і приблизного розуміння, що це і до чого - гуд, а от чи вдалось мені щось більше - хз. Мб, варто повернутись пізніше чи коли буде актуально. Принаймні рівень базового розуміння точно є)
-Чесно кажучи, сил на освоєння додаткових матеріалів взагалі не було(
+Цікавий курс, дає багато інформації, яку за короткий термін складно засвоїти. Зробив собі пару закладинок де треба буде поплавати при необхідності)
