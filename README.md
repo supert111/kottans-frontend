@@ -104,3 +104,4 @@
 
 # 3. Intro to HTML and CSS
 - [x] [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp) приклад скорочень (не розриває слова при перенесені ( No-Break Space ... &amp;nbsp;&nbsp;)
+- [x] [A-href, link](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture09) приклади з силками
