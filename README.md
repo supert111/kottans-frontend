@@ -5,13 +5,13 @@
 - [x] Тиждень 1:
 <details>
   <summary>Week1</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181358513-e6c999dc-d1f3-4826-a489-370655e94c4a.png">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/week1.jpg?raw=true">
 </details>
 
 - [x] Тиждень 2:
 <details>
   <summary>Week2</summary>
-  <img src = "https://user-images.githubusercontent.com/97355715/181475811-33273c07-2968-4866-9be0-632999f039af.png">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/week2.jpg?raw=true">
 </details>
 
 ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
@@ -68,13 +68,13 @@
 - [x] Тиждень 3:
 <details>
   <summary>Week3</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20185357.jpg">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/week3.jpg?raw=true">
 </details>
 
 - [x] Тиждень 4:
 <details>
   <summary>Week4</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20203317.jpg">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/week4.jpg?raw=true">
 </details>
   
   ## [learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk):
