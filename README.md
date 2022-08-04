@@ -102,5 +102,5 @@
 Відокремлю гру, яка внесла певні краски!!!)
 Нажаль на курсі до інструменту Qwiklabs не було доступу, лишився загадкою.
 
-# 3.Intro to HTML and CSS
-## [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp)
+# 3. Intro to HTML and CSS
+- [x] [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp) приклад скорочень (€	euro	&euro;)
