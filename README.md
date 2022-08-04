@@ -103,4 +103,4 @@
 Нажаль на курсі до інструменту Qwiklabs не було доступу, лишився загадкою.
 
 # 3. Intro to HTML and CSS
-- [x] [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp) приклад скорочень (не розриває слова при перенесені	&nbsp;)
+- [x] [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp) приклад скорочень (не розриває слова при перенесені(No-Break Space	&#160;)
