@@ -82,13 +82,13 @@
 - [x] Основи: Їдемо далі, Переміщуємо роботу туди-сюди:
 <details>
   <summary>Basics</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-01%20205831.jpg">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/learngitbranching.jpg?raw=true">
 </details>
 
 - [x] Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes:
 <details>
   <summary>Git advanced</summary>
-  <img src = "https://github.com/filoxera1409/kottans-frontend/blob/main/task_git_collaboration/Screenshot%202022-08-02%20205828.jpg">
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_git_collaboration/Pull%20and%20push.jpg?raw=true">
 </details>
   
   ## Вивчити додаткові матеріали
