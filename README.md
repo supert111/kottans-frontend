@@ -103,5 +103,17 @@
 Нажаль на курсі до інструменту Qwiklabs не було доступу, лишився загадкою.
 
 # 3. Intro to HTML and CSS
+- [x] Тиждень 1:
+<details>
+  <summary>Week1</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_html_css_intro/week1HtmlCss.png?raw=true">
+</details>
+
+- [x] Тиждень 2:
+<details>
+  <summary>Week2</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_html_css_intro/week2HtmlCss.png?raw=true">
+</details>
+
 - [x] [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp) приклад скорочень (не розриває слова при перенесені ( No-Break Space ... &amp;nbsp;&nbsp;)
 - [x] [A-href, link](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture09) приклади з силками
