@@ -114,6 +114,10 @@
   <summary>Week2</summary>
   <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_html_css_intro/week2HtmlCss.png?raw=true">
 </details>
+<details>
+  <summary>Learn HTML(Eng) and Learn CSS(Eng)</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_html_css_intro/htmlAndCss.png?raw=true">
+</details>
 
 - [x] [Some Useful HTML Character Entities](https://www.w3schools.com/html/html_entities.asp) приклад скорочень (не розриває слова при перенесені ( No-Break Space ... &amp;nbsp;&nbsp;)
 - [x] [A-href, link](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture09) приклади з силками
