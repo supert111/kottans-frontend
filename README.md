@@ -123,3 +123,15 @@
 - [x] [A-href, link](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/examples/Lecture09) приклади з силками
 
 # 4. Responsive Web Design
+<details>
+  <summary>Flexbox Froggy</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_responsive_web_design/flexFroggyGame.png?raw=true">
+</details>
+<details>
+  <summary>Grid Garden</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_responsive_web_design/gridGame.png?raw=true">
+</details>
+
+## Games
+[Flexbox Froggy](http://flexboxfroggy.com/#ru)
+[Grid Garden](http://cssgridgarden.com/#ru)
