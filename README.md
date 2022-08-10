@@ -133,5 +133,5 @@
 </details>
 
 ## Games
-[Flexbox Froggy](http://flexboxfroggy.com/#ru)
+[Flexbox Froggy](http://flexboxfroggy.com/#ru) <br>
 [Grid Garden](http://cssgridgarden.com/#ru)
