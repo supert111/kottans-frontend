@@ -140,3 +140,5 @@
 ### popup-html-css
 [Demo](https://supert111.github.io/popup-html-css/) |
 [Code base](https://github.com/supert111/popup-html-css)
+
+# 6. JS Basics
