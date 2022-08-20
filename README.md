@@ -142,3 +142,27 @@
 [Code base](https://github.com/supert111/popup-html-css)
 
 # 6. JS Basics
+<details>
+  <summary>Basic JavaScript</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/BasicsJS.png?raw=true">
+</details>
+<details>
+  <summary>ES6 Challenges</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/ES6.png?raw=true">
+</details>
+<details>
+  <summary>Basic Data Structures</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/BasicDataStructures.png?raw=true">
+</details>
+<details>
+  <summary>Basic Algorithm Scripting</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/BasicAlgorithm.png?raw=true">
+</details>
+<details>
+  <summary>Functional Programming</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/FunctionalProgramming.png?raw=true">
+</details>
+<details>
+  <summary>Algorithm Scripting Challenges</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/IntermediateAlgorithmScripting.png?raw=true">
+</details>
