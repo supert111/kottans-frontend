@@ -176,9 +176,8 @@
   <summary>Algorithm Scripting Challenges</summary>
   <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_dom/IntermediateAlgorithmScripting.png?raw=true">
 </details>
+
 ### js-dom
 [Demo](https://supert111.github.io/js-dom/) |
 [Code base](https://github.com/supert111/js-dom)
-### popup-html-css
-[Demo](https://supert111.github.io/popup-html-css/) |
-[Code base](https://github.com/supert111/popup-html-css)
+
