@@ -166,3 +166,16 @@
   <summary>Algorithm Scripting Challenges</summary>
   <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_basics/IntermediateAlgorithmScripting.png?raw=true">
 </details>
+
+# 7. DOM
+<details>
+  <summary>Document Object Model Manipulation</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_dom/Document%20Object%20Model%20Manipulation.jpg?raw=true">
+</details>
+<details>
+  <summary>Algorithm Scripting Challenges</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_dom/IntermediateAlgorithmScripting.png?raw=true">
+</details>
+### js-dom
+[Demo](https://supert111.github.io/js-dom/) |
+[Code base](https://github.com/supert111/js-dom)
