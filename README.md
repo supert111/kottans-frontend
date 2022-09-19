@@ -196,7 +196,7 @@
   * [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
   * [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
   * [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
-- [ ] [«Супер» і «розширюється» в JavaScript ES6 - Розуміння складних частин](https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6 -understanding-the-tough-parts-6120372d3420) - Як синтаксис класу ES6 відображається на функціях прототипу ES5.
+- [ ] [«Супер» і «розширюється» в JavaScript ES6 - Розуміння складних частин](https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6-understanding-the-tough-parts-6120372d3420) - Як синтаксис класу ES6 відображається на функціях прототипу ES5.
 - [ ] [Що таке `super()` в Javascript](https://css-tricks.com/what-is-super-in-javascript/)
 - [ ] [Фрагмент читів для класів ES6](https://gist.github.com/OleksiyRudenko/672d39b08d9d0da4e179aca49876c58b)
 
