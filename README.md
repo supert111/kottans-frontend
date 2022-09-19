@@ -185,6 +185,23 @@
 - [ ] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
 # 8. Building a Tiny JS World
+## Додаткові матеріали
+- [ ] [Як пояснити концепції об’єктно-орієнтованого програмування 6-річній дитині](https://medium.freecodecamp.org/object-oriented-programming-concepts-21bb035f7260)
+- [ ] [Об’єктно-орієнтований JavaScript для початківців](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
+- [ ] [Об'єктно-орієнтоване програмування в javascript](https://www.sohamkamani.com/blog/2016/04/30/oops-in-js/)
+- [ ] [Посібник із успадкування класів на основі прототипів у JavaScript](https://levelup.gitconnected.com/a-guide-to-prototype-based-class-inheritance-in-javascript-e2e30c2c92b4)
+- [ ] [Фундаментальні шаблони дизайну об’єктів](https://medium.com/launch-school/javascript-weekly-fundamental-object-design-patterns-31453f68427f)
+- [ ] [Композиція над спадщиною](https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205)
+- Посилання на MDN:
+  * [constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)
+  * [extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
+  * [super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+- [ ] [«Супер» і «розширюється» в JavaScript ES6 - Розуміння складних частин](https://medium.com/beginners-guide-to-mobile-web-development/super-and-extends-in-javascript-es6 -understanding-the-tough-parts-6120372d3420) - Як синтаксис класу ES6 відображається на функціях прототипу ES5.
+- [ ] [Що таке `super()` в Javascript](https://css-tricks.com/what-is-super-in-javascript/)
+- [ ] [Фрагмент читів для класів ES6](https://gist.github.com/OleksiyRudenko/672d39b08d9d0da4e179aca49876c58b)
+
+Розглянемо завершення
+[Об’єктно-орієнтований Javascript](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md)
 ### A Tiny JS World
 [Demo](https://supert111.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/supert111/a-tiny-JS-world/tree/start-projeckt)
