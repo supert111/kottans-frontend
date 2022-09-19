@@ -184,6 +184,7 @@
 - [ ] [The Basics of DOM Manipulation in Vanilla JavaScript (No jQuery)](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 - [ ] [JavaScript DOM Crash Course by Brad Traversy](https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
 
-### Building a Tiny JS World
+# 8. Building a Tiny JS World
+### A Tiny JS World
 [Demo](https://supert111.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/supert111/a-tiny-JS-world/tree/start-projeckt)
