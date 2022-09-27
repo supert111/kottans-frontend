@@ -205,3 +205,16 @@
 ### A Tiny JS World
 [Demo](https://supert111.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/supert111/a-tiny-JS-world/tree/start-projeckt)
+
+# 9. Object Oriented JS
+
+<details>
+  <summary>Сodewars</summary>
+  <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_oop/codewars.png?raw=true">
+</details>
+[Codewars link profile](https://www.codewars.com/users/supert)
+
+### Frogger-Game
+
+[Demo](https://supert111.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/supert111/frontend-nanodegree-arcade-game/tree/start-project-game)
