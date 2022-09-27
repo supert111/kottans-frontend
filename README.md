@@ -226,19 +226,19 @@
 
 ### ООП частина:
 
-- [] [Understanding ECMAScript 6. Block Bindings](https://leanpub.com/understandinges6/read/#leanpub-auto-block-bindings)
-- [] [Розуміння ECMAScript 6. Розділ "Блочне зв'язування"](https://understandinges6.denysdovhan.com/manuscript/01-Block-Bindings.html)
+- [ ] [Understanding ECMAScript 6. Block Bindings](https://leanpub.com/understandinges6/read/#leanpub-auto-block-bindings)
+- [ ] [Розуміння ECMAScript 6. Розділ "Блочне зв'язування"](https://understandinges6.denysdovhan.com/manuscript/01-Block-Bindings.html)
 
 #### YDKJS English:
 
-- [] [You Don't Know JS series: Scopes and Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
-- [] [You Don't Know JS series: _this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
+- [ ] [You Don't Know JS series: Scopes and Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures)
+- [ ] [You Don't Know JS series: _this_ & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/this%20%26%20object%20prototypes)
 
 ### Корисні речі:
 
-- [] [WTFJS](https://github.com/denysdovhan/wtfjs/blob/master/README.md)
-- [] [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
-- [] [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
+- [ ] [WTFJS](https://github.com/denysdovhan/wtfjs/blob/master/README.md)
+- [ ] [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+- [ ] [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
 
 [Demo](https://supert111.github.io/frontend-nanodegree-arcade-game/) |
 [Code base](https://github.com/supert111/frontend-nanodegree-arcade-game/tree/start-project-game)
