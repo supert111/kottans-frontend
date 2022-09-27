@@ -212,6 +212,8 @@
   <summary>Сodewars</summary>
   <img src = "https://github.com/supert111/kottans-frontend/blob/main/task_js_oop/codewars.png?raw=true">
 </details>
+
+[Demo](https://supert111.github.io/frontend-nanodegree-arcade-game/)
 [Codewars link profile](https://www.codewars.com/users/supert)
 
 ### Frogger-Game
