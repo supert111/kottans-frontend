@@ -217,6 +217,9 @@
 
 ### Frogger-Game
 
+[Demo](https://supert111.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/supert111/frontend-nanodegree-arcade-game/tree/start-project-game)
+
 ## Матеріали
 
 1. [ООП 1 частина - Класи](https://www.youtube.com/watch?v=jgCiWIdUZ-s&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=40)
@@ -239,10 +242,6 @@
 - [ ] [WTFJS](https://github.com/denysdovhan/wtfjs/blob/master/README.md)
 - [ ] [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
 - [ ] [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
-
-[Demo](https://supert111.github.io/frontend-nanodegree-arcade-game/) |
-[Code base](https://github.com/supert111/frontend-nanodegree-arcade-game/tree/start-project-game)
-
 
 # 10. OOP exercise
 
