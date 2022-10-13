@@ -254,7 +254,7 @@ Some extras related to OOP:
 [Fun Fun Function - Composition over Inhertance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
 Helpful resources:
-- [ES6 classes cheat-sheet](https://gist.github.com/OleksiyRudenko/672d39b08d9d0da4e179aca49876c58b)
+- [ES6 classes cheat-sheet](https://gist.github.com/OleksiyRudenko/672d39b08d9d0da4e179aca49876c58b) - шпаргалка :)
 
 ### OOP - A Tiny JS World
 [Demo](https://supert111.github.io/a-tiny-JS-world/) |
