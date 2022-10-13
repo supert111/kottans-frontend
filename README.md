@@ -259,3 +259,5 @@ Helpful resources:
 ### OOP - A Tiny JS World
 [Demo](https://supert111.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/supert111/a-tiny-JS-world/blob/OOP-class/index.js)
+
+# 11. Offline Web Applications
