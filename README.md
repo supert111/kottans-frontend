@@ -39,7 +39,7 @@
 - [ ] [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 - [ ] [TypingClub — покращити швидкість набору на клавіатурі](https://www.typingclub.com/) 
 - [ ] [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/) 
-Git Gui & gitk
+- [X] Git Gui & gitk
 
 # 1. Linux, Command Line, HTTP Tools
 ## [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/):
